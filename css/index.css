@@ -57,7 +57,7 @@ body {
 }
 /* 每一個小連結 */
 .item-link {
-    color: lightyellow;
+    color: #f5f5a3;
     font-size: 22px;
     margin:10px;
     text-decoration : none;
@@ -70,4 +70,14 @@ body {
     font-size: 18px;
 }
 
+
+ /* 文中鏈結*/
+.my-link {
+      color: #A4CFFF;
+    }
+
+    a.my-link:link,
+    a.my-link:hover {
+      color: #A4CFFF;
+    }
 
